@@ -6,7 +6,7 @@ I am interested in software systems, particularly distributed systems, database 
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on the intersection of LLMs and databases
+- 🔭 I’m currently working at the intersection of LLMs and databases
 - 🌱 I’m currently learning CMake
 - 👯 I’m looking to collaborate on open source projects
 <!-- - 🤔 I’m looking for help with ... -->
