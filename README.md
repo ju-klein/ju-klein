@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at the intersection of LLMs and databases
 - 🌱 I’m currently learning CMake
 - 👯 I’m looking to collaborate on open source projects
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything music related
+<!-- - 🤔 I’m looking for help with ... -->- 💬 Ask me about anything music related :guitar:
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
