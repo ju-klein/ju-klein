@@ -7,7 +7,7 @@ I am interested in software systems, particularly distributed systems, database 
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working at the intersection of LLMs and databases
-- 🌱 I’m currently trying to do one Leetcode problem a day
+- 🌱 I’m currently trying to learn Rust in my free time
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything music related :guitar:
 <!-- - 🤔 I’m looking for help with ... -->
