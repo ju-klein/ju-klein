@@ -1,5 +1,11 @@
 > [!WARNING]
-> All of my personal projects will move away from github as of May 2026. The reasons for this should be obvious: Microslop has taken questionable choices running github for years now. Forcing AI down everyone's throat, "borrowing" people's code and not being able to provide a stable, reliable service. Luckily for everybody, [the](https://codeberg.org) [available](https://radicle.dev) [alternatives](https://tangled.org) have become so good that moving away from here is not an issue anymore. All of the linked alternatives improve on the developer experience in a substantial way. The projects here will be archived where appropriate. I will also link other people's essays on this if I find them particularly interesting or insightful. 
+> All of my personal projects will move away from github as of May 2026. The reasons for this should be obvious: Microslop has taken questionable choices running github for years now. Forcing AI down everyone's throat, "borrowing" people's code and not being able to provide a stable, reliable service. The last blunder I remember was [github opting in people to train Copilot on everybody's repositories](https://www.linkedin.com/posts/gergelyorosz_if-you-use-github-especially-if-you-pay-activity-7443280380897562624-swIk).
+> Luckily for everybody, [the](https://codeberg.org) [available](https://radicle.dev) [alternatives](https://tangled.org) have become so good that moving away from here is not an issue anymore. All of the linked alternatives improve on the developer experience in a substantial way.
+> The projects here will be archived where appropriate. I will keep this account for contributing to FOSS projects that do not move away from github or do not provide any alternative mirrors (boo!).
+> I will also link other people's essays on this if I find them particularly interesting or insightful. Sadly, I cannot remember the essay that _really_ made me decide to post this.
+> - Relying on US infrastructure is a bad idea
+> - We need to move away from centralized forges altogether
+> - We also need a FOSS license that prohibits AI training (TODO: Research if such a license already exists)
 
 ## Hi there 👋
 I'm Julian! I'm a Master's student at [SIC](https://sic.saarland) and [MPI-SWS](https://mpi-sws.org).
